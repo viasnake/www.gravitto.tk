@@ -466,3 +466,7 @@
     display: none !important;
   }
 }
+
+.body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
