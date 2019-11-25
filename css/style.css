@@ -7,3 +7,11 @@ body {
 main {
     flex: 1 0 auto;
 }
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: normal;
+  font-style: normal;
+  src: url(https://fonts.googleapis.com/css?family=Montserrat:400,700,200) format('woff2');
+  font-display: swap;
+}
